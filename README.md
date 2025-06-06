@@ -1,4 +1,4 @@
-#🔬 Cirrhosis Multiclass Classification
+# 🔬 Cirrhosis Multiclass Classification
 
 This project focuses on predicting the stage of liver cirrhosis using clinical patient data. It explores multiclass classification techniques by comparing Random Forest and XGBoost models. Key features include:
 - ✅ Model comparison between Random Forest and XGBoost
